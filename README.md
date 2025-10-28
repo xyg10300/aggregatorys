@@ -17,7 +17,8 @@ One-stop Proxies Crawling and Aggregation Platform
 
 ![image](https://github.com/user-attachments/assets/214c99ca-1715-4076-b230-62972eb82dd3)
 <img width="1451" height="780" alt="c504bdd1-f89b-4c66-9dde-d58871c2c46d" src="https://github.com/user-attachments/assets/d9f8a1bc-a069-4b22-8f9d-b315b55a0670" />
-<img width="1204" height="325" alt="5c02914d54889d9c5712637c74b0f690741881d2" src="https://github.com/user-attachments/assets/dfa267b9-fafd-4bd7-a7f4-8d81df95f703" />
+<img width="1204" height="325" alt="微信图片_2025-10-28_154800_378" src="https://github.com/user-attachments/assets/ef6416fe-9690-4f6b-a878-64b073c28e72" />
+
 
 - 4、到仓库页面的Settings里设置环境变量，变量名为`GIST_LINK`和`GIST_PAT`，值分别为第4和5两步获取到的内容
 ![image](https://github.com/user-attachments/assets/91edee9f-33d2-4404-9abc-427a5dcb541a)

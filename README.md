@@ -8,7 +8,8 @@ One-stop Proxies Crawling and Aggregation Platform
 
 - 2、创建gist并获取到`username/gist_id`（记得保存，稍后要用），打开 [gist.github.com](https://gist.github.com)，随便创建一个，内容随便填，如图所示
 ![image](https://github.com/user-attachments/assets/6b2d8d31-1dcb-4ca0-b983-c68cd31b52e2)
-<img width="2095" height="978" alt="76f4749e1d67453d5d51807e12c7c9b33e718c0d" src="https://github.com/user-attachments/assets/0946ce79-5f69-48a2-86da-a4d854d9ca1b" />
+<img width="2095" height="978" alt="76f4749e1d67453d5d51807e12c7c9b33e718c0d" src="https://github.com/user-attachments/assets/7ec01ef4-22db-4e57-a224-a93679c66847" />
+
 
 - 3、回到 [Sign in to GitHub](https://github.com/settings/tokens?type=beta) 点击Generate new token按钮创建 PAT。名字随便填，过期时间选得久一点，重要的是在Account permissions里授予Gists的读写权限，创建好后复制生成的token稍后用
 ![image](https://github.com/user-attachments/assets/0bd567ae-2517-4245-ba19-5e753d67e762)
@@ -16,8 +17,9 @@ One-stop Proxies Crawling and Aggregation Platform
 ![image](https://github.com/user-attachments/assets/555baca1-4531-4d85-82d0-e91806e5a3c4)
 
 ![image](https://github.com/user-attachments/assets/214c99ca-1715-4076-b230-62972eb82dd3)
-<img width="1451" height="780" alt="c504bdd1-f89b-4c66-9dde-d58871c2c46d" src="https://github.com/user-attachments/assets/d9f8a1bc-a069-4b22-8f9d-b315b55a0670" />
-<img width="1204" height="325" alt="微信图片_2025-10-28_154800_378" src="https://github.com/user-attachments/assets/ef6416fe-9690-4f6b-a878-64b073c28e72" />
+<img width="1451" height="780" alt="155113_210" src="https://github.com/user-attachments/assets/fd66402f-68c6-4fb9-9bc0-a27e1f579660" />
+
+<img width="1204" height="325" alt="154800_378" src="https://github.com/user-attachments/assets/ef6416fe-9690-4f6b-a878-64b073c28e72" />
 
 
 - 4、到仓库页面的Settings里设置环境变量，变量名为`GIST_LINK`和`GIST_PAT`，值分别为第4和5两步获取到的内容
